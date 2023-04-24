@@ -1,7 +1,3 @@
 # blog-EEEE
-2321321321321
-3
-12
-312
-3
-12
+Vulnerability Title:jfinal_cms there is XSS
+Affected versions:jfinal cms v5.1.0
